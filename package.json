@@ -1,0 +1,23 @@
+{
+  "name": "katsushika-covid19-vaccine-bot",
+  "version": "1.0.0",
+  "description": "katsushika-covid19-vaccine-bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuiltyFox/katsushika-covid19-vaccine-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuiltyFox/katsushika-covid19-vaccine-bot/issues"
+  },
+  "homepage": "https://github.com/GuiltyFox/katsushika-covid19-vaccine-bot#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "node-cron": "^3.0.0"
+  }
+}
